@@ -1,0 +1,38 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/DALVIK
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+/bin/
+/gen/
+/out/
+/build/
+/app/build/
+
+# Gradle files
+.gradle/
+/caches/
+/wrapper/
+/daemon/
+
+# Android Studio / IntelliJ IDEA
+.idea/
+.artifacts/
+*.iml
+*.iws
+*.ipr
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# OS specific
+.DS_Store
+Thumbs.db
